@@ -70,5 +70,5 @@ MIT.
 ## Related
 
 - [oauth-flow-debugger](https://github.com/0xelitesystem/oauth-flow-debugger), decode and inspect OAuth URLs
-- [webhook-signature-verifier](https://github.com/0xelitesystem/webhook-signature-verifier), verify webhook signatures
+- [multi-provider-webhook-verifier](https://github.com/0xelitesystem/multi-provider-webhook-verifier), verify webhook signatures
 - [secrets-scanner-bookmarklet](https://github.com/0xelitesystem/secrets-scanner-bookmarklet), scan a page for exposed API keys
