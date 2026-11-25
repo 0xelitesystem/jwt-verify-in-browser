@@ -1,8 +1,8 @@
-# JWT Inspector
+# JWT Verify in Browser
 
 Decode and verify JSON Web Tokens in your browser. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/jwt-inspector/
+**Live demo:** https://0xelitesystem.github.io/jwt-verify-in-browser/
 
 ## Use
 
@@ -38,8 +38,8 @@ That said, **don't paste production tokens or production keys into any web tool*
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/jwt-inspector
-cd jwt-inspector
+git clone https://github.com/0xelitesystem/jwt-verify-in-browser
+cd jwt-verify-in-browser
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
